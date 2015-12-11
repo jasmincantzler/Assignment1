@@ -1,6 +1,6 @@
 #MPP-E1180: Introduction to Collaborative Social Science Data Analysis
 #Pair Assignment 1
-#Jasmin Cantzler, Valeria Nieberg & Wiebke Weiger
+#Jasmin Cantzler & Wiebke Weiger
 
 ###Data Set 1
 data()
